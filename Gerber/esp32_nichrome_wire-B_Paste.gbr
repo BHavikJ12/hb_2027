@@ -1,15 +1,26 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5-8.0.5-0~ubuntu22.04.1*%
-%TF.CreationDate,2025-05-20T11:09:25+05:30*%
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2026-06-19T15:20:49+05:30*%
 %TF.ProjectId,esp32_nichrome_wire,65737033-325f-46e6-9963-68726f6d655f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.5-8.0.5-0~ubuntu22.04.1) date 2025-05-20 11:09:25*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2026-06-19 15:20:49*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,1.700000*%
 G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X133560000Y-98040000D03*
+D11*
+X136100000Y-98040000D03*
+X138640000Y-98040000D03*
+X141180000Y-98040000D03*
+X143720000Y-98040000D03*
+%TD*%
 M02*
